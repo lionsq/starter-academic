@@ -9,14 +9,18 @@ interests:
   - Artificial Intelligence
   - Distributed Systems
 social: []
-organizations:
-  - name: Xiamen University
-    url: xmu.edu.cn
+organizations: []
 education:
   courses:
-    - course: Bsc in Operating Systems
-      institution: "Xiamen University "
-      year: 2021
+    - course: Bsc in Computer Science
+      institution: National University of Defense Technology, China
+      year: 2007
+    - course: Msc in Computer Science
+      institution: National University of Defense Technology, China
+      year: 2009
+    - course: PhD in Computer Science
+      institution: Delft University of Technology, the Netherlands
+      year: 2015
 email: siqishen (at) xmu.edu.cn
 superuser: true
 user_groups:
