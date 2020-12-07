@@ -1,7 +1,7 @@
 ---
 title: Siqi Shen
 role: Assistant Professor
-avatar_filename: photo.jpg
+avatar_filename: avatar.jpg
 bio: "My research interests include point clouds, artificial intelligence, and
   distributed systems. "
 interests:
