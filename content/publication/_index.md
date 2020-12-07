@@ -12,4 +12,6 @@ view: 4
 header:
   caption: ""
   image: ""
+[item]
+Siqi Shen, Yongquan Fu, Adele Lu Jia, Huayou Su, Qinglin Wang, Chengsong Wang, Yong Dou，Learning Network Representation Through Reinforcement Learning，ICASSP, 2020
 ---
