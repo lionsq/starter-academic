@@ -11,12 +11,10 @@ interests:
 social: []
 organizations:
   - name: Xiamen University
-    url: https://xmu.edu.cn
+    url: xmu.edu.cn
 education:
-  courses:
-    - course: Bsc in Operating System
-      institution: Xiamen University
-email: ""
+  courses: []
+email: shensiqi@nudt.edu.cn
 superuser: true
 user_groups:
   - Researchers
